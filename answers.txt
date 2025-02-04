@@ -1,1 +1,8 @@
+Question 1:
+Pros:
+It allows for quick changes and adjustments to the product.
+Is built based on customer feedback and tailored to the customer’s preferences.
 
+Cons:
+Can lead to disjointed code that eventually becomes impossible for any one person to understand.
+Creates software that is heavily tied to one customer and can be difficult to generalize to other consumers.
