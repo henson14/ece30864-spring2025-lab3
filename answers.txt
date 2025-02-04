@@ -2,10 +2,15 @@ Question 1:
 Pros:
 It allows for quick changes and adjustments to the product.
 Is built based on customer feedback and tailored to the customer’s preferences.
-
 Cons:
 Can lead to disjointed code that eventually becomes impossible for any one person to understand.
 Creates software that is heavily tied to one customer and can be difficult to generalize to other consumers.
 
+
 Question 2:
 The SCRUM master leads the product development team and hosts the weekly/daily SCRUM sessions. They are focused on streamlining the development process and monitoring team contributions. The product owner oversees the project and its backlog. They gather customer requirements and work to prioritize what needs work. They are more focused on the lifecycle and future of the software rather than the day-to-day tasks.
+
+Question 3:
+Sprint Planning Meeting - determines what needs to be accomplished in the sprint and assigns team members to each task
+Standup Meeting - a short check-in meeting where members discuss their progress and any blockers
+Sprint Retrospective Meeting - the team reflects on what went well and poorly during the sprint, they determine what should happen with any remaining work from the sprint
