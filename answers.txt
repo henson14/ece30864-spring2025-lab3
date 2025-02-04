@@ -14,3 +14,9 @@ Question 3:
 Sprint Planning Meeting - determines what needs to be accomplished in the sprint and assigns team members to each task
 Standup Meeting - a short check-in meeting where members discuss their progress and any blockers
 Sprint Retrospective Meeting - the team reflects on what went well and poorly during the sprint, they determine what should happen with any remaining work from the sprint
+
+Question 4:
+Epic - a large component that is made up of several stories
+Story - a software system requirement, usually fairly short
+Bug - an identified problem with the software that needs to be addressed
+Task - a concrete task that needs to be completed, usually lives within epics
